@@ -9,6 +9,14 @@ Il s'agit d'un prototype fonctionnel et complet afin de montrer au client le ré
 
 Les données qui apparaîtront sur le prototype seront extraites de l'API du site https://www.themoviedb.org.
 
+## Git
+
+Le projet doit posséder son dépôt GIT.
+
+## Docuentation
+
+Un fichier README.md doit être créé à la base de votre dépôt afin d'expliquer l'installation du projet.
+
 ## Spécifications
 
 # Homepage
