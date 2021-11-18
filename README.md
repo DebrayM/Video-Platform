@@ -98,7 +98,10 @@ Au clic sur un film ou série tv, le visiteur sera redirigé vers une page conte
 Les genres du film doivent être cliquables. 
 
 En dessous de ces détails, on trouvera deux sections :
-* Le casting complet du film ;
+* Le casting complet du film :
+  * Photo de l'acteur/actrice ;
+  * Prénom et nom de l'acteur/actrice ;
+  * Rôle de l'acteur/actrice.
 * Les 20 recommandations de films/séries tv par rapport au film choisi.
 
 > Si aucune recommandation n'est trouvée, un message d'erreur doit s'afficher.
