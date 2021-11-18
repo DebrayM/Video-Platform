@@ -23,7 +23,7 @@ Il s'agit d'un prototype fonctionnel et complet afin de montrer au client le ré
 
 ### Options
 
-Il s'agit d'éléments supplémentaires qui peuvent être ajoutés au projet et qui apporteront ou amélioreront des compétences.
+Il s'agit d'éléments supplémentaires qui peuvent être ajoutés au projet et qui apporteront ou amélioreront des compétences :
 
 * Bien gérer vos commits : https://buzut.net/cours/versioning-avec-git/bien-nommer-ses-commits ;
 * Utilisation du [Git Flow](https://grafikart.fr/tutoriels/git-flow-742) pour l'organisation du projet ;
@@ -99,7 +99,7 @@ Les genres du film doivent être cliquables.
 
 En dessous de ces détails, on trouvera deux sections :
 * Le casting complet du film ;
-* Les 20 recommandations de films/séries tv.
+* Les 20 recommandations de films/séries tv par rapport au film choisi.
 
 > Si aucune recommandation n'est trouvée, un message d'erreur doit s'afficher.
 
