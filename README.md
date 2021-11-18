@@ -89,6 +89,7 @@ Au clic sur un film ou série tv, le visiteur sera redirigé vers une page conte
 * L'image de fond ;
 * Jaquette ;
 * Titre ;
+* Année de sortie ;
 * Synopsis ;
 * Langue original ;
 * Le vote moyen ;
