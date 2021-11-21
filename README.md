@@ -13,6 +13,10 @@ Il s'agit d'un prototype fonctionnel et complet afin de montrer au client le ré
 > :warning: **Aucun streaming ne doit apparaître sur le projet, mais si vous souhaitez ajouter une vidéo, 
 > vous pouvez remplacer le streaming par la bande-annonce officiel du film ou de la série tv.**
 
+## Rappel
+
+**Chacun apprend à sa vitesse.** Vous devez faire preuve de patience quand le projet n'avance pas aussi vite que vous le souhaitez, prendre le temps d'expliquer à vos collègues le travail que vous avez effectué et laisser le temps à vos collègues de réaliser le leur. Sachez répartir la masse de travail entre vous et ne faites pas le travail des autres.
+
 ## Demandes requises
 
 * SASS ;
