@@ -3,7 +3,7 @@
 ## Durée
 
 Le projet se déroule du 22 novembre au 3 décembre.  
-> Une présentation sera requise le 3 décembre.
+> Une présentation sera requise le 3 décembre après-midi.
 
 ## Objectif
 
