@@ -128,4 +128,12 @@ les détails du film choisi.
 ## Notes
 
 Il peut arriver que certaines images comme les jaquettes ou fonds de page soient inexistantes. Dans ce cas, afficher 
-une image par défaut. 
+une image par défaut.
+
+# Bonus
+
+**Vous avez terminé l'application avant la deadline ? Félicitations 🎉 !**  
+Dans ce cas, ajouter des options supplémentaires à celle-ci :
+* Gestion des listes de films ou séries tv ;
+* Possibilité de noter un film ou une série tv ;
+* Afficher les commentaires dans le détails d'un film ou série tv.
