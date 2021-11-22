@@ -15,10 +15,15 @@ Il s'agit d'un prototype fonctionnel et complet afin de montrer au client le ré
 
 ## Demandes requises
 
+* [Arborescence du projet](https://www.codeur.com/blog/construire-arborescence-site-web/) ;
 * Responsive ;
 * SASS ;
 * Utilisation de la méthodologie [BEM](https://fr.wikipedia.org/wiki/BEM) pour vos fichiers SASS ;
-* Utilisation de GitHub pour le dépôt du projet ;
+* Utilisation de GitHub pour le dépôt du projet contenant :
+  * Le code source du projet ;
+  * Les templates ;
+  * Arborescence du projet ;
+  * Un README expliquant l'installation si nécessaire.
 * Création des modèles de toutes les pages du site ;
 * Déploiement du site sur un serveur.
 
