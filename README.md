@@ -18,7 +18,7 @@ Il s'agit d'un prototype fonctionnel et complet afin de montrer au client le ré
 * [Arborescence du projet](https://www.codeur.com/blog/construire-arborescence-site-web/) ;
 * Responsive ;
 * SASS ;
-* Utilisation de la méthodologie [BEM](https://fr.wikipedia.org/wiki/BEM) pour vos fichiers SASS ;
+* Utilisation de la méthodologie [BEM](https://www.alticreation.com/bem-pour-le-css/) pour vos fichiers SASS ;
 * Utilisation de GitHub pour le dépôt du projet contenant :
   * Le code source du projet ;
   * Les templates ;
