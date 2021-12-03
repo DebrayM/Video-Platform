@@ -174,7 +174,7 @@ function vdo_api_load_person() {
         }
         let i = 0;
         let personne = "";
-        let image = "../assets/images/croix.svg";
+        let image = "./assets/images/croix.svg";
         let path_img = "";
         while (i<s) {
             personne = persons.results[i];
