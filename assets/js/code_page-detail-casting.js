@@ -12,7 +12,7 @@ function vdo_api_load_people(id_people) {
     let b = "";
     // construction de l'url de la jaquette 
     let path_img = "";
-    let image = "../assets/images/croix.svg";
+    let image = "./assets/images/croix.svg";
     let url = "";
     /* URL pour traduire le tire du film */
     url = 'https://api.themoviedb.org/3/person/' + id_people;

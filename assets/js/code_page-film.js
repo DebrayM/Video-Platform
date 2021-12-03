@@ -87,7 +87,7 @@ function vdo_api_load_movie_filter(param, page_num, categ) {
         let path_img = "";
         let results = "";
         let tritre_film = "";
-        let image = "../assets/images/croix.svg";
+        let image = "./assets/images/croix.svg";
         let i = 0;
         while (i<s) {
             results = posts.results[i];
