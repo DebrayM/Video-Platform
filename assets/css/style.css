@@ -109,9 +109,10 @@ body main #br span {
 body main .categorieIndex {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 30px;
   align-items: center;
   padding-bottom: 100%;
+  margin: 100px 0 0 0;
 }
 body main .categorieIndex a {
   text-decoration: none;
@@ -184,7 +185,6 @@ body section .gridCards {
   margin: 3vh;
   display: grid;
   grid-template-columns: repeat(1fr);
-  justify-content: center;
   align-items: center;
   gap: 50px;
 }
@@ -486,7 +486,7 @@ body section h2 {
 }
 body section .profil {
   width: 90%;
-  margin-left: auto;
+  margin: auto;
   padding-top: 8%;
 }
 body section .profil .profil__cadre {
